@@ -14,7 +14,6 @@ The current notebook compares methods on the same Poisson problem with weakly im
 
 - [notebook1.ipynb](notebook1.ipynb): main comparison notebook
 - [Project.toml](Project.toml): Julia environment for the notebook
-- `EmbeddedBenchmark.jl/`: cloned reference repository used as a code and formulation base for some method implementations
 
 ## Requirements
 
